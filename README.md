@@ -46,13 +46,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  <div id="languages">
+  <div id="main">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest" alt="Nest " width="50" height="50"/>&nbsp;
+  </div>
+  <div id="others">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
