@@ -53,6 +53,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest" alt="Nest " width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="50" height="50"/>&nbsp;
   </div>
   <div id="others">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -103,11 +106,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![Edmilson Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmilsonSilva&show_icons=true&theme=dark&hide_border=true)](https://github.com/EdmilsonSilva/EdmilsonSilva)
+[![Edmilson Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmilsonSilva&show_icons=true)](https://github.com/EdmilsonSilva/EdmilsonSilva)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdmilsonSilva&theme=dark&hide_border=true)](https://github.com/EdmilsonSilva/EdmilsonSilva)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdmilsonSilva)](https://github.com/EdmilsonSilva/EdmilsonSilva)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonSilva&layout=compact&hide_border=true&theme=dark&temp)](https://github.com/EdmilsonSilva/EdmilsonSilva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonSilva)](https://github.com/EdmilsonSilva/EdmilsonSilva)
 
 
 
