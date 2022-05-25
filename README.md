@@ -105,7 +105,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdmilsonSilva&theme=dark&hide_border=true)](https://github.com/EdmilsonSilva/EdmilsonSilva)&nbsp;&nbsp;
 [![Edmilson Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmilsonSilva&show_icons=true&theme=dark&hide_border=true)](https://github.com/EdmilsonSilva/EdmilsonSilva)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonSilva&layout=compact&hide_border=true)](https://github.com/EdmilsonSilva/EdmilsonSilva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonSilva&layout=compact&hide_border=true&theme=dark&temp)](https://github.com/EdmilsonSilva/EdmilsonSilva)
 
 
 
